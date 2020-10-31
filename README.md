@@ -1,4 +1,4 @@
-# Grade Level Comprehension: Arrays using C
+# Text Analysis: Arrays using C
 ### Homework from [Harvard's Introduction to Computer Science CS50 hosted on eDX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 ### 🎓 [Problem Set 2](https://cs50.harvard.edu/x/2020/psets/2/)
 - [Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/): Estimation of grade level required to comprehend any text that is inputted via command line
