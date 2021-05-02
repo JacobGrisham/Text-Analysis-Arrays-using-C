@@ -4,7 +4,7 @@
 - [Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/): Estimation of grade level required to comprehend any text that is inputted via command line
 - I wrote all the code in each file. No code was provided by the instructor.
 
-![Readability Program Demo](images/demo.gif)
+![Readability Program Demo](img/demo.gif)
 
 ## 💡Lessons Learned
 - Working with [ASCII values](https://www.ascii-code.com/), which is one step above binary code (lowest level)
